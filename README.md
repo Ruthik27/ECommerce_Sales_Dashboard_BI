@@ -1,0 +1,2 @@
+# ECommerce_Sales_Dashboard_BI
+ This Power BI dashboard provides a comprehensive overview of e-commerce sales performance, including sales and profit by product category, shipping method, and customer segment. Visualize monthly trends, track key metrics like total sales, profit, and average delivery time, and explore geographic sales distribution across states. Powered by interactive charts and filters, this dashboard offers valuable insights into business operations and customer behavior.
